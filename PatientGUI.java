@@ -13,7 +13,7 @@ public class PatientGUI extends JFrame {
 
     public PatientGUI() {
         manager = new PatientManager();
-        setTitle("Clinic Management System");
+        setTitle("🏥 Clinic Management System");
         setSize(600, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
